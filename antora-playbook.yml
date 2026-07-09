@@ -1,0 +1,20 @@
+site:
+  url: https://www.ucaiug.io/getting-started-with-cim
+  start_page: ROOT::index.adoc
+content:
+  sources:
+    - url: ''
+      branches: HEAD
+      start_paths: docs-adoc/*
+asciidoc:
+  attributes:
+    page-pagination: ''
+    experimental: ''
+  extensions:
+    - asciidoctor-kroki
+output:
+  clean: true
+  dir: docs
+ui:
+  bundle:
+    url: https://github.com/cimug-org/antora-ui-cimug-spec/releases/download/v0.1.0/ui-bundle.zip

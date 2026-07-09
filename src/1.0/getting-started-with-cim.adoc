@@ -1,0 +1,127 @@
+= Getting Started with CIM
+:sectnums:
+
+== Consider
+* IP / ownership
+* Structural / flow
+** Organize by skill levels, tools, etc.
+* Pre-existing resources vs new
+* What is vendor-provided, what is CIM university, etc. vs what is published here
+* What is for cim-mg, CIMTool, vs published here
+
+== Goals
+* Easily navigable, digestible knowledge base
+* Extremely simple entry points
+* Reusable knowledge base / assets
+* Fewer repos/locations, simpler process
+* Clear governance, version management
+* Managed and encouraged contributions
+
+== Notes / Future
+* Getting involved 
+* UCA, etc. History Museum
+* University Getting Started
+* Compliance vs conformance vs interoperable….
+* New initiatives
+* Organizational / model / artifact relationships (e.g. UCA vs CGMES vs ENTSO-E vs …)
+* Jesse's tables about UML, Profiles, artifacts, dates, owners
+* When a newcomer comes to the end of some material, point them to a vendor/utility/consultant, etc.
+* Can it be interactive? Change parameters, one-lines
+* Color coding / 'levels' / tags/hashtags / other clear organizational helpers
+* What does it mean to be compliant/conformant with the CIM? When do you "follow the standard?"
+* Also, how does this differ from profiles or profile groups such as those created by ENTSO-E and Ofgem
+* Canonical CIM reference documentation (my current work should be moved and improved)
+* I have begun writing a spec that should describe how to create CIM profiles, what compliance means
+* URI policy/guidance would be great so people know how to use the proper URIs and how to mint ones for extensions in the right way
+
+== CIM
+* When your utility's data is scattered across systems, meanings don't align, and you're ready to treat “shared understanding of the grid” as a strategic asset.
+
+== Why CIM exists
+*  Too many custom interfaces
+*  Same asset, different meanings
+*  One shared language, many systems 
+*  Reduce vendor* specific adapters
+*  Model once, reuse often 
+
+== When CIM becomes relevant
+    * First serious system integration 
+    * OT-IT data must align
+    * Network model sharing pain 
+    * Outage, asset, meter silos
+    * Market/regulatory data pressure 
+
+== When CIM is essential
+* Enterprise integration program 
+* Grid model exchanges become external
+* Multi-vendor EMS/DMS landscape (ADMS? ODMS? My abbreviations feel incorrect)
+* Planning-operations-markets
+* Long term interoperability strategy 
+
+== How many utilities start
+* One high value use case (need one STRONG example)
+* Define a focused profile
+* Pick source-of-truth system
+* Map legacy to CIM terms
+* Pilot, then institutionalize
+
+== Extensions and local needs
+* Standard first, extend second
+* Document every deviation
+* Keep semantics recognizable
+* Share extensions with peers 
+* Re-align when standard evolves
+
+== Getting involved and influencing CIM
+* Join UCAIug, join CIMug
+* Access model & profile docs
+* Submit real-world use cases 
+* Participation (emails, calls, meetings)
+* Help shape next CIM editions
+* Without incoming enthusiasts/experts/students/utilities/etc., CIM standards development/evolution will slow
+
+== Real world examples
+CIM is the IEC standard behind many modern grid projects in Europe and North America. CIM is used to turn misaligned, vendor specific data into a shared language that planners, operators, and market systems can all understand.
+* 	European Example (1): pan European grid model exchange (ENTSO E)
+* Uses CIM/CGMES to exchange transmission grid models between TSOs for regional and pan European studies: 
+  *  https://www.entsoe.eu/digital/common-information-model/cim-for-grid-models-exchange/
+  *  https://www.entsoe.eu/data/cim/cim-for-grid-models-exchange/ 
+* 	European Example (2): smart grid applications with CIM (Denmark DSO case)
+* IEEE Transactions on Smart Grid paper describing a CIM based framework (EMBARK) for integrating LV grid data to support smart grid applications at a Danish DSO.
+  *  https://vbn.aau.dk/en/publications/on-the-use-of-common-information-model-for-smart-grid-application/  
+* 	North America: CIM based distribution data integration (PNNL)
+* Peer reviewed framework for integrating distribution utility data using CIM and converting models into GridLAB D for planning and operations research. 
+  *  https://www.osti.gov/biblio/1776527 
+
+
+
+
+
+
+== Where IEC 61850 fits
+* Substation and device layer. IEC 61850 defines data models and services for protection, control, and automation at the substation and similar OT environments.
+* Focused on IEDs, bays, and substation communication, with standardized logical nodes and fast event messaging (GOOSE, sampled values).
+* Typically used by protection, SCADA, and substation engineering teams to ensure interoperable substation level behavior.
+When utilities typically “need” IEC 61850
+* Modernizing substation automation
+* Multi vendor IED interoperability
+* Fast, deterministic protection messaging
+* Standardized substation data models
+* Engineering/configuration tool unification
+* Integrating legacy relays and new IEDs
+* Transparent, future proof SCADA upgrades
+* Harmonized OT semantics across sites 
+
+== Where OpenFMB fits
+* Grid edge interoperability standard. OpenFMB provides a common UML based data model and publish subscribe messaging patterns for field devices and applications at the distribution edge.
+* Derived from CIM and 61850. Its information model intentionally aligns with IEC 61968/61970 (CIM) and IEC 61850 but is use case driven for distributed controls and DER coordination.
+* Designed for edge computing. OpenFMB is meant to facilitate decisions “nearest to the data source,” supporting local orchestration of DERs, reclosers, regulators, and other field equipment.
+When utilities typically “need” OpenFMB
+* Growing DER fleets and microgrids. When many inverters, storage units, and microgrid controllers must coordinate autonomously rather than via one central SCADA/ADMS.
+* Mixed protocols at the edge. When devices speak DNP3, Modbus, IEEE 2030.5, OCPP, etc., and the utility wants one semantic layer over multiple publish subscribe transports (MQTT, NATS, etc.).
+* Circuit segment level automation. When distribution segments need local control logic (e.g., DER circuit segment management, feeder reconfiguration) that reacts quickly using shared edge data.
+* Cybersecure, standards based peer to peer messaging. When ad hoc proprietary gateways are no longer acceptable for security, resilience, or interoperability reasons.
+
+
+== Contacts
+* mohsen.khadem@nodewatt.com
