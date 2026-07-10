@@ -3,7 +3,7 @@ site:
   start_page: ROOT::index.adoc
 content:
   sources:
-    - url: ''
+    - url: '' # Could source from other repo URLs, blank means local
       branches: HEAD
       start_paths: docs-adoc/*
 asciidoc:
@@ -15,6 +15,6 @@ asciidoc:
 output:
   clean: true
   dir: docs
-ui:
-  bundle:
-    url: https://github.com/cimug-org/antora-ui-cimug-spec/releases/download/v0.1.0/ui-bundle.zip
+#ui:
+#  bundle:
+#    url: https://github.com/cimug-org/antora-ui-cimug-spec/releases/download/v0.1.0/ui-bundle.zip

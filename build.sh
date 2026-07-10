@@ -21,8 +21,6 @@ for src_dir in src/*; do
     mkdir $root_module/attachments/examples
 
     echo "name: ROOT" >> $root_module/../../antora.yml
-    echo "version: '$(yq .version $linkml)'" >> $root_module/../../antora.yml
-    echo "title: $(yq .title $linkml)" >> $root_module/../../antora.yml
 
 done
 
