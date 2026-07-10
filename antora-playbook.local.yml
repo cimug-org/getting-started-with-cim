@@ -5,7 +5,7 @@ content:
   sources:
     - url: ''
       branches: HEAD
-      start_paths: docs-adoc
+      start_paths: src
 asciidoc:
   attributes:
     page-pagination: ''
@@ -18,10 +18,12 @@ asciidoc:
 output:
   clean: true
   dir: docs
-ui:
-  bundle:
-    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
-    snapshot: true
 # ui:
-# bundle:
-#   url: ../antora-ui-cimug-spec/build/ui-bundle.zip
+#  bundle:
+#    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
+#    snapshot: true
+ui:
+bundle:
+  url: ..//antora-ui-cimug-spec//build//ui-bundle.zip
+  snapshot: true
+

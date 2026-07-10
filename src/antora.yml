@@ -1,0 +1,6 @@
+name: ROOT # related to the url
+version: ~ # ~ means unversioned which is okay for now
+title: Getting Started with CIM
+# nav:
+# - modules/ROOT/nav.adoc
+# above is useful for multipage
