@@ -82,18 +82,17 @@
 
 == Real world examples
 CIM is the IEC standard behind many modern grid projects in Europe and North America. CIM is used to turn misaligned, vendor specific data into a shared language that planners, operators, and market systems can all understand.
-* 	European Example (1): pan European grid model exchange (ENTSO E)
-* Uses CIM/CGMES to exchange transmission grid models between TSOs for regional and pan European studies: 
-  *  https://www.entsoe.eu/digital/common-information-model/cim-for-grid-models-exchange/
-  *  https://www.entsoe.eu/data/cim/cim-for-grid-models-exchange/ 
-* 	European Example (2): smart grid applications with CIM (Denmark DSO case)
-* IEEE Transactions on Smart Grid paper describing a CIM based framework (EMBARK) for integrating LV grid data to support smart grid applications at a Danish DSO.
-  *  https://vbn.aau.dk/en/publications/on-the-use-of-common-information-model-for-smart-grid-application/  
-* 	North America: CIM based distribution data integration (PNNL)
-* Peer reviewed framework for integrating distribution utility data using CIM and converting models into GridLAB D for planning and operations research. 
-  *  https://www.osti.gov/biblio/1776527 
 
-
+* European Example (1): pan European grid model exchange (ENTSO E)
+** Uses CIM/CGMES to exchange transmission grid models between TSOs for regional and pan European studies: 
+***  https://www.entsoe.eu/digital/common-information-model/cim-for-grid-models-exchange/
+***  https://www.entsoe.eu/data/cim/cim-for-grid-models-exchange/ 
+* European Example (2): smart grid applications with CIM (Denmark DSO case)
+** IEEE Transactions on Smart Grid paper describing a CIM based framework (EMBARK) for integrating LV grid data to support smart grid applications at a Danish DSO.
+***  https://vbn.aau.dk/en/publications/on-the-use-of-common-information-model-for-smart-grid-application/  
+* North America: CIM based distribution data integration (PNNL)
+** Peer reviewed framework for integrating distribution utility data using CIM and converting models into GridLAB D for planning and operations research. 
+***  https://www.osti.gov/biblio/1776527 
 
 
 
@@ -124,4 +123,6 @@ When utilities typically “need” OpenFMB
 
 
 == Contacts
+* ryan@ucaiug.org
+* jesse@ucaiug.org
 * mohsen.khadem@nodewatt.com

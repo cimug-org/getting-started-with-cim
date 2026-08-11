@@ -23,7 +23,6 @@ output:
 #    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
 #    snapshot: true
 ui:
-bundle:
-  url: ..//antora-ui-cimug-spec//build//ui-bundle.zip
-  snapshot: true
-
+  bundle:
+    url: https://github.com/cimug-org/antora-ui-cimug-spec/releases/download/v0.1.0/ui-bundle.zip
+    # url: ..//antora-ui-cimug-spec//build//ui-bundle.zip
