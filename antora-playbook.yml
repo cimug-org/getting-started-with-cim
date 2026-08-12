@@ -18,3 +18,4 @@ output:
 ui:
  bundle:
    url: https://github.com/cimug-org/antora-ui-cimug-spec/releases/download/v0.1.0/ui-bundle.zip
+   base_url: /getting-started-with-cim
