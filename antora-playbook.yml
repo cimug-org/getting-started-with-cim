@@ -5,7 +5,7 @@ content:
   sources:
     - url: '' # Could source from other repo URLs, blank means local
       branches: HEAD
-      start_paths: docs-adoc/*
+      start_paths: src
 asciidoc:
   attributes:
     page-pagination: ''

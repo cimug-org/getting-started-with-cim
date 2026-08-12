@@ -5,7 +5,7 @@ content:
   sources:
     - url: ''
       branches: HEAD
-      start_paths: docs-adoc/*
+      start_paths: src
 asciidoc:
   attributes:
     page-pagination: ''
@@ -24,5 +24,6 @@ output:
 #    snapshot: true
 ui:
   bundle:
-    url: https://github.com/cimug-org/antora-ui-cimug-spec/releases/download/v0.1.0/ui-bundle.zip
-    # url: ../antora-ui-cimug-spec/build/ui-bundle.zip
+    url: ../antora-ui-cimug-spec/build/ui-bundle.zip
+    # url: https://github.com/cimug-org/antora-ui-cimug-spec/releases/download/v0.1.0/ui-bundle.zip
+    # url: ..//antora-ui-cimug-spec//build//ui-bundle.zip
