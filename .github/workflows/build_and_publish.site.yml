@@ -23,13 +23,21 @@ jobs:
           node-version: '24'
       - name: Install dependencies
         run: npm i
-      - name: Build UI bundle
-        run: npx gulp bundle
+      - name: Build the site with Antora
+        run: npx antora .\antora-playbook.yml
+
+      # - name: Build UI bundle
+      #   run: npx gulp bundle
       - name: Prepare release
-        run: echo ${{ github.sha }} > release_notes.txt
+        run: |
+          zip -r site.zip docs/
+
+      # - name: Prepare release
+      #   run: echo ${{ github.sha }} > release_notes.txt
+
       - name: Release
         uses: softprops/action-gh-release@v2
         with:
           body_path: release_notes.txt
           tag_name: ${{ env.GITHUB_REF_NAME }}
-          files: build/ui-bundle.zip
+          files: site.zip
