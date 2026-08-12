@@ -12,8 +12,8 @@ asciidoc:
   attributes:
     page-pagination: ''
     experimental: ''
-  extensions:
-    - asciidoctor-kroki
+  # extensions:
+  #   - asciidoctor-kroki
 output:
   clean: true
   dir: docs
