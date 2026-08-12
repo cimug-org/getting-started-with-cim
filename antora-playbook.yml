@@ -14,7 +14,7 @@ asciidoc:
 #    - asciidoctor-kroki
 output:
   clean: true
-  dir: docs
+  dir: build/site
 ui:
  bundle:
    url: https://github.com/cimug-org/antora-ui-cimug-spec/releases/download/v0.1.0/ui-bundle.zip

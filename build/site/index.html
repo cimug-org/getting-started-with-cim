@@ -1,0 +1,472 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Getting Started with CIM</title>
+    <link rel="canonical" href="https://www.ucaiug.io/getting-started-with-cim/index.html">
+    <meta name="generator" content="Antora 3.1.15">
+    <link rel="stylesheet" href="./_/css/site.css">
+  </head>
+  <body class="article">
+<div class="body">
+<main class="article">
+  <div class="content">
+<aside class="toc sidebar" data-title="Contents" data-levels="2">
+  <div class="toc-menu"></div>
+</aside>
+<article class="doc">
+  <div id="doc-header">
+    <div class="row1">
+      <div class="col1">
+        <h1 class="page">Getting Started with CIM</h1>
+        <div id="subtitle"></div>
+      </div>
+      <div class="col2">
+        <img id="site-logo" src="https://cimug.org/wp-content/uploads/sites/2/2023/12/CIMug_logo_horiz.svg">
+      </div>
+    </div>
+    <div class="row2">
+          </div>
+  </div>
+<div class="sect1">
+<h2 id="_consider"><a class="anchor" href="#_consider"></a>1. Consider</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>IP / ownership</p>
+</li>
+<li>
+<p>Structural / flow</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Organize by skill levels, tools, etc.</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Pre-existing resources vs new</p>
+</li>
+<li>
+<p>What is vendor-provided, what is CIM university, etc. vs what is published here</p>
+</li>
+<li>
+<p>What is for cim-mg, CIMTool, vs published here</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_goals"><a class="anchor" href="#_goals"></a>2. Goals</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Easily navigable, digestible knowledge base</p>
+</li>
+<li>
+<p>Extremely simple entry points</p>
+</li>
+<li>
+<p>Reusable knowledge base / assets</p>
+</li>
+<li>
+<p>Fewer repos/locations, simpler process</p>
+</li>
+<li>
+<p>Clear governance, version management</p>
+</li>
+<li>
+<p>Managed and encouraged contributions</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_notes_future"><a class="anchor" href="#_notes_future"></a>3. Notes / Future</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Getting involved</p>
+</li>
+<li>
+<p>UCA, etc. History Museum</p>
+</li>
+<li>
+<p>University Getting Started</p>
+</li>
+<li>
+<p>Compliance vs conformance vs interoperable….</p>
+</li>
+<li>
+<p>New initiatives</p>
+</li>
+<li>
+<p>Organizational / model / artifact relationships (e.g. UCA vs CGMES vs ENTSO-E vs …)</p>
+</li>
+<li>
+<p>Jesse&#8217;s tables about UML, Profiles, artifacts, dates, owners</p>
+</li>
+<li>
+<p>When a newcomer comes to the end of some material, point them to a vendor/utility/consultant, etc.</p>
+</li>
+<li>
+<p>Can it be interactive? Change parameters, one-lines</p>
+</li>
+<li>
+<p>Color coding / 'levels' / tags/hashtags / other clear organizational helpers</p>
+</li>
+<li>
+<p>What does it mean to be compliant/conformant with the CIM? When do you "follow the standard?"</p>
+</li>
+<li>
+<p>Also, how does this differ from profiles or profile groups such as those created by ENTSO-E and Ofgem</p>
+</li>
+<li>
+<p>Canonical CIM reference documentation (my current work should be moved and improved)</p>
+</li>
+<li>
+<p>I have begun writing a spec that should describe how to create CIM profiles, what compliance means</p>
+</li>
+<li>
+<p>URI policy/guidance would be great so people know how to use the proper URIs and how to mint ones for extensions in the right way</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_cim"><a class="anchor" href="#_cim"></a>4. CIM</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>When your utility&#8217;s data is scattered across systems, meanings don&#8217;t align, and you&#8217;re ready to treat “shared understanding of the grid” as a strategic asset.</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_why_cim_exists"><a class="anchor" href="#_why_cim_exists"></a>5. Why CIM exists</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Too many custom interfaces</p>
+</li>
+<li>
+<p>Same asset, different meanings</p>
+</li>
+<li>
+<p>One shared language, many systems</p>
+</li>
+<li>
+<p>Reduce vendor* specific adapters</p>
+</li>
+<li>
+<p>Model once, reuse often</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_when_cim_becomes_relevant"><a class="anchor" href="#_when_cim_becomes_relevant"></a>6. When CIM becomes relevant</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>First serious system integration</p>
+</li>
+<li>
+<p>OT-IT data must align</p>
+</li>
+<li>
+<p>Network model sharing pain</p>
+</li>
+<li>
+<p>Outage, asset, meter silos</p>
+</li>
+<li>
+<p>Market/regulatory data pressure</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_when_cim_is_essential"><a class="anchor" href="#_when_cim_is_essential"></a>7. When CIM is essential</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Enterprise integration program</p>
+</li>
+<li>
+<p>Grid model exchanges become external</p>
+</li>
+<li>
+<p>Multi-vendor EMS/DMS landscape (ADMS? ODMS? My abbreviations feel incorrect)</p>
+</li>
+<li>
+<p>Planning-operations-markets</p>
+</li>
+<li>
+<p>Long term interoperability strategy</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_how_many_utilities_start"><a class="anchor" href="#_how_many_utilities_start"></a>8. How many utilities start</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>One high value use case (need one STRONG example)</p>
+</li>
+<li>
+<p>Define a focused profile</p>
+</li>
+<li>
+<p>Pick source-of-truth system</p>
+</li>
+<li>
+<p>Map legacy to CIM terms</p>
+</li>
+<li>
+<p>Pilot, then institutionalize</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_extensions_and_local_needs"><a class="anchor" href="#_extensions_and_local_needs"></a>9. Extensions and local needs</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Standard first, extend second</p>
+</li>
+<li>
+<p>Document every deviation</p>
+</li>
+<li>
+<p>Keep semantics recognizable</p>
+</li>
+<li>
+<p>Share extensions with peers</p>
+</li>
+<li>
+<p>Re-align when standard evolves</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_getting_involved_and_influencing_cim"><a class="anchor" href="#_getting_involved_and_influencing_cim"></a>10. Getting involved and influencing CIM</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Join UCAIug, join CIMug</p>
+</li>
+<li>
+<p>Access model &amp; profile docs</p>
+</li>
+<li>
+<p>Submit real-world use cases</p>
+</li>
+<li>
+<p>Participation (emails, calls, meetings)</p>
+</li>
+<li>
+<p>Help shape next CIM editions</p>
+</li>
+<li>
+<p>Without incoming enthusiasts/experts/students/utilities/etc., CIM standards development/evolution will slow</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_real_world_examples"><a class="anchor" href="#_real_world_examples"></a>11. Real world examples</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>CIM is the IEC standard behind many modern grid projects in Europe and North America. CIM is used to turn misaligned, vendor specific data into a shared language that planners, operators, and market systems can all understand.</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>European Example (1): pan European grid model exchange (ENTSO E)</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Uses CIM/CGMES to exchange transmission grid models between TSOs for regional and pan European studies:</p>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://www.entsoe.eu/digital/common-information-model/cim-for-grid-models-exchange/" class="bare">https://www.entsoe.eu/digital/common-information-model/cim-for-grid-models-exchange/</a></p>
+</li>
+<li>
+<p><a href="https://www.entsoe.eu/data/cim/cim-for-grid-models-exchange/" class="bare">https://www.entsoe.eu/data/cim/cim-for-grid-models-exchange/</a></p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>European Example (2): smart grid applications with CIM (Denmark DSO case)</p>
+<div class="ulist">
+<ul>
+<li>
+<p>IEEE Transactions on Smart Grid paper describing a CIM based framework (EMBARK) for integrating LV grid data to support smart grid applications at a Danish DSO.</p>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://vbn.aau.dk/en/publications/on-the-use-of-common-information-model-for-smart-grid-application/" class="bare">https://vbn.aau.dk/en/publications/on-the-use-of-common-information-model-for-smart-grid-application/</a></p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>North America: CIM based distribution data integration (PNNL)</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Peer reviewed framework for integrating distribution utility data using CIM and converting models into GridLAB D for planning and operations research.</p>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://www.osti.gov/biblio/1776527" class="bare">https://www.osti.gov/biblio/1776527</a></p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_where_iec_61850_fits"><a class="anchor" href="#_where_iec_61850_fits"></a>12. Where IEC 61850 fits</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Substation and device layer. IEC 61850 defines data models and services for protection, control, and automation at the substation and similar OT environments.</p>
+</li>
+<li>
+<p>Focused on IEDs, bays, and substation communication, with standardized logical nodes and fast event messaging (GOOSE, sampled values).</p>
+</li>
+<li>
+<p>Typically used by protection, SCADA, and substation engineering teams to ensure interoperable substation level behavior.
+When utilities typically “need” IEC 61850</p>
+</li>
+<li>
+<p>Modernizing substation automation</p>
+</li>
+<li>
+<p>Multi vendor IED interoperability</p>
+</li>
+<li>
+<p>Fast, deterministic protection messaging</p>
+</li>
+<li>
+<p>Standardized substation data models</p>
+</li>
+<li>
+<p>Engineering/configuration tool unification</p>
+</li>
+<li>
+<p>Integrating legacy relays and new IEDs</p>
+</li>
+<li>
+<p>Transparent, future proof SCADA upgrades</p>
+</li>
+<li>
+<p>Harmonized OT semantics across sites</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_where_openfmb_fits"><a class="anchor" href="#_where_openfmb_fits"></a>13. Where OpenFMB fits</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Grid edge interoperability standard. OpenFMB provides a common UML based data model and publish subscribe messaging patterns for field devices and applications at the distribution edge.</p>
+</li>
+<li>
+<p>Derived from CIM and 61850. Its information model intentionally aligns with IEC 61968/61970 (CIM) and IEC 61850 but is use case driven for distributed controls and DER coordination.</p>
+</li>
+<li>
+<p>Designed for edge computing. OpenFMB is meant to facilitate decisions “nearest to the data source,” supporting local orchestration of DERs, reclosers, regulators, and other field equipment.
+When utilities typically “need” OpenFMB</p>
+</li>
+<li>
+<p>Growing DER fleets and microgrids. When many inverters, storage units, and microgrid controllers must coordinate autonomously rather than via one central SCADA/ADMS.</p>
+</li>
+<li>
+<p>Mixed protocols at the edge. When devices speak DNP3, Modbus, IEEE 2030.5, OCPP, etc., and the utility wants one semantic layer over multiple publish subscribe transports (MQTT, NATS, etc.).</p>
+</li>
+<li>
+<p>Circuit segment level automation. When distribution segments need local control logic (e.g., DER circuit segment management, feeder reconfiguration) that reacts quickly using shared edge data.</p>
+</li>
+<li>
+<p>Cybersecure, standards based peer to peer messaging. When ad hoc proprietary gateways are no longer acceptable for security, resilience, or interoperability reasons.</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_contacts"><a class="anchor" href="#_contacts"></a>14. Contacts</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p><a href="mailto:ryan@ucaiug.org">ryan@ucaiug.org</a></p>
+</li>
+<li>
+<p><a href="mailto:jesse@ucaiug.org">jesse@ucaiug.org</a></p>
+</li>
+<li>
+<p><a href="mailto:mohsen.khadem@nodewatt.com">mohsen.khadem@nodewatt.com</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</article>
+  </div>
+</main>
+</div>
+<footer class="footer">
+  <p>This page was built using the <a href="https://github.com/cimug-org/antora-ui-cimug-spec">Antora UI CIM Users Group Specification</a>, a fork of the official <a href="https://gitlab.com/antora/antora-ui-default">Antora Default UI</a>.</p>
+  <p>Use of this software is granted under the terms of the <a href="https://www.mozilla.org/en-US/MPL/2.0/">Mozilla Public License Version 2.0 (MPL-2.0)</a>.</p>
+</footer>
+<script id="site-script" src="./_/js/site.js" data-ui-root-path="./_"></script>
+<script async src="./_/js/vendor/highlight.js"></script>
+  </body>
+</html>
