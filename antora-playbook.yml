@@ -1,6 +1,7 @@
 site:
   url: https://www.ucaiug.io/getting-started-with-cim
-  start_page: ROOT::index.adoc
+  base_url: /getting-started-with-cim
+  # start_page: ROOT::index.adoc
 content:
   sources:
     - url: '' # Could source from other repo URLs, blank means local
@@ -18,4 +19,3 @@ output:
 ui:
  bundle:
    url: https://github.com/cimug-org/antora-ui-cimug-spec/releases/download/v0.1.0/ui-bundle.zip
-   base_url: /getting-started-with-cim
