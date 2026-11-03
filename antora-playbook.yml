@@ -1,7 +1,7 @@
 site:
   url: https://www.ucaiug.io/getting-started-with-cim
   base_url: /getting-started-with-cim
-  # start_page: ROOT::index.adoc
+  start_page: ROOT::index.adoc
 content:
   sources:
     - url: '' # Could source from other repo URLs, blank means local
