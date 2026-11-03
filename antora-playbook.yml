@@ -1,6 +1,6 @@
 site:
   url: https://www.ucaiug.io/getting-started-with-cim
-  base_url: /getting-started-with-cim
+  # base_url: /getting-started-with-cim
   start_page: ROOT::index.adoc
 content:
   sources:
@@ -11,9 +11,9 @@ asciidoc:
   attributes:
     page-pagination: ''
     experimental: ''
-antora:
-  extensions:
-    - require: '@antora/lunr-extension'
+# antora:
+#   extensions:
+#     - require: '@antora/lunr-extension'
 #    - asciidoctor-kroki
 output:
   clean: true

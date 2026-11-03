@@ -19,7 +19,7 @@ output:
   dir: docs
 ui:
   bundle:
-    url: ../antora-ui-cimug-standard/build/ui-bundle.zip
+    url: https://github.com/cimug-org/antora-ui-uca-kb-spec/releases/download/v0.1.0/ui-bundle.zip
 #antora:
 #  extensions:
 #    - require: '/opt/build/antora/version-postprocessor.js'
