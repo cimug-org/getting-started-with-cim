@@ -1,0 +1,14 @@
+= Future Ideas for Getting Started with CIM
+
+We always welcome suggestions and support in building better resorces for the community. Reach out and submit an idea! 
+
+Ideas submitted in the past we hope to get to:
+
+* Interactive tools to get to know CIM Schema, Profiles, Instance Data, and Oneline diagrams
+* Color coding / 'levels' / tags / other clear organizational helpers
+* Answer questions like:
+** What does it mean to be compliant/conformant with the CIM? When do you "follow the standard?"
+** Also, how does this differ from profiles or profile groups such as those created by ENTSO-E and Ofgem
+* Integrate more with the CIMug Reference Library
+* Get updates into Wikipedia for more visiblity and accuracy
+* URI policy/guidance would be great so people know how to use the proper URIs and how to mint ones for extensions in the right way

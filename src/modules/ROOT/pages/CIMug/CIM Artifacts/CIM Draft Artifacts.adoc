@@ -1,0 +1,30 @@
+= CIM Draft Artifacts
+:sectnums:
+
+UCAiug provides the following artifacts.
+
+== Grid
+
+=== JSON-LD
+* ...
+
+=== LinkML
+* ...
+
+
+== Enterprise
+
+=== JSON-LD
+* ...
+
+=== LinkML
+* ...
+
+
+== Market
+
+=== JSON-LD
+* ...
+
+=== LinkML
+* ...

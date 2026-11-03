@@ -1,0 +1,30 @@
+= CIM Draft Profiles
+:sectnums:
+
+== UCAiug Apache 2.0 Profiles
+
+* https://www.ucaiug.io/prof-ap-cim/2.1/index.html[PROF-AP-CIM]
+* More to come...
+
+
+== Grid
+
+=== RDF
+* RDF for Grid is broken up like...
+* [Operations profile]
+* Historical Releases
+
+
+== Enterprise
+
+=== XSD
+* ...
+
+== Market
+
+=== RDF
+* ...
+
+=== XSD
+* ...
+

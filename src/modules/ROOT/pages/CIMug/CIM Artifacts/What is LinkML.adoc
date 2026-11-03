@@ -1,0 +1,37 @@
+= What is LinkML?
+
+* To get started, you can learn more about LinkML at https://linkml.io/
+
+
+== About Use of LinkML and CIM
+
+We want to encourage open source contributions, and provide guidance and education to enable the best results for everyone. LinkML is not officially supported or produced for any of our artifacts, but is being evaluated by members of UCAiug, CIMug, and various task forces. 
+
+If you are interested in doing development or modeling related to LinkML and CIM, please reach out to the contacts listed below.
+
+=== LinkML and CIM Modeling
+
+There are many semantic considerations and nuances we want you to be aware of, especially while LinkML is being evaluated and is itself not fully standardized.
+
+
+=== LinkML and CIM Tooling
+
+CIMug strongly encourages interest in open source development, and if you are interested in CIM and LinkML, you may want to be aware that there are a number of ways to contribute to existing projects before starting your own!
+
+* CIMTool
+* LinkML builder for CIMTool
+* Other plugins, scripts, and open source projects we are watching
+
+The more we can direct development on the areas above, the more we improve the time spent and ability to collaborate. This is a unified effort to build deeper richness into some of our existing tools. 
+
+
+
+
+== Contacts
+Some contacts in this area include:
+
+* Todd Viegut
+* Bart Kleingeld
+* Jesse Grey
+* Svein Olsen
+* Alex Anderson

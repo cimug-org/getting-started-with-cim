@@ -1,0 +1,10 @@
+= What is a Profile?
+
+== Profiles in CIM
+
+== Different Terms
+
+Contextual Profile
+
+== Where Profiles are Used
+

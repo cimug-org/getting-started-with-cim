@@ -1,0 +1,65 @@
+= UCAIug Sponsored Tools
+
+There are tools sponsored or managed by UCAiug, and tools and products with are made by sponsors of UCAiug.
+
+== Currently Managed by UCAiug:
+
+.Project Repositories
+[cols="1,1,3", options="header"]
+|===
+| Project
+| Location
+| Description
+
+| CIMTool
+| CIMTool
+| CIMug fork of Arnold de Vos’s CIMTool for the Common Information Model (CIM).
+
+| IEC-CIM-Language-Localization
+| IEC-CIM-Language-Localization
+| The CIM Community’s localisation repo for ontology files that only contain rdfs:Labels in languages other than English.
+
+| cim-compare
+| cim-compare
+| Command line tool for generating CIM model comparison reports.
+
+| IEC-CIM-Ontology
+| IEC CIM Ontology
+| Project that explores documentation generation (research).
+
+| CIM Distribution JSON-LD
+| CIM Distribution JSON-LD
+| The CIM Community repository of JSON-LD examples of CIM data for use as input for a JSON-LD serialisation specification.
+
+| mimir-documentation
+| mimir-documentation
+| Project that explores documentation generation (research).
+
+| WG13 Information Model
+| WG13 Information Model
+| Project for Issue tracking for UCAIug WG13 Information Model UML Development.
+
+| CIM Distribution Parquet
+| CIM Distribution Parquet
+| Parquet is a columnar file format that supports nested data. This is the CIM Community’s Parquet distro.
+
+| CIM Distribution Avro
+| CIM Distribution Avro
+| Avro is an open source project that provides data serialization and data exchange services for Apache Hadoop. These services can be used together or independently. Avro facilitates the exchange of big data between programs written in any language. This is the CIM Community’s Avro distro.
+|===
+
+
+== Products Provided to UCAiug Members
+* Sparx Eclipse
+** ...
+
+
+== Products Offered by UCAiug Members
+* AspenTech
+** ...
+* Siemens
+** ...
+* ...
+
+
+See https://ucaiug.org/members/

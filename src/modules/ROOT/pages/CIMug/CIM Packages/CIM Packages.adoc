@@ -1,0 +1,11 @@
+= CIM Packages
+
+This site is under construction.
+
+Nothing here is better than or supersedes the UML model itself.
+
+include::../../../pages/CIMug//CIM Packages//About Grid (Formerly IEC 61970).adoc[]
+
+include::../../../pages/CIMug//CIM Packages//About Enterprise (Formerly 61968).adoc[]
+
+include::../../../pages/CIMug//CIM Packages//About Market (Formerly 62325).adoc[]

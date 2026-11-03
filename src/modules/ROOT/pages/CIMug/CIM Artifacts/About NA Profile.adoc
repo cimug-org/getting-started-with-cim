@@ -1,0 +1,135 @@
+= NA Profile
+
+== A Practical Path to Better Grid Model Exchange
+
+We are working toward a simple, shared CIM-based profile approach for North American transmission planning and operations – designed to reduce manual transformation, improve consistency across tools, and support practical interoperability.
+
+== Why this effort exists
+
+Across North American transmission environments, model exchange still involves too much manual transformation, inconsistent interpretation across tools, and unclear profile guidance. Stakeholders told us these issues slow delivery, increase reconciliation work, and make interoperability harder than it should be.
+
+
+== Mission and goals
+
+Our mission is to define and demonstrate a simple, shared North American CIM profile approach for transmission planning and operations. The goal is not to start from scratch, but to use what already exists where possible, prove value through practical demonstration, and expand based on real use cases.
+
+
+== The plan
+
+    Confirm the first scope – identify the initial profile/testing target.
+
+    Define priority use cases – focus on the exchanges causing the most friction.
+
+    Build the framework – governance, alignment, participation model, and test artifacts.
+
+    Demonstrate value – prepare for interoperability testing and stakeholder-visible proof.
+
+This effort is moving forward as a staged work plan: define scope, prioritize use cases, establish governance, and demonstrate value through practical interoperability activity.
+Get involved
+
+== What's in it for stakeholders
+
+=== Utilities / Transmission Owners
+
+Less manual reconciliation.
+
+Better exchange with neighbors and vendors.
+
+More confidence in incoming model data.
+
+Early influence on scope and priorities.
+
+=== ISOs / RTOs
+
+Cleaner exchange expectations.
+
+More consistent model interpretation.
+
+Stronger coordination across organizations.
+
+Better basis for scalable operations exchange.
+
+=== Vendors / Partners
+
+Clearer implementation target.
+
+Less custom interpretation per customer.
+
+Opportunity to demonstrate existing capability.
+
+Direct input into profile and testing priorities.
+
+== Why a demonstration matters
+
+A successful interoperability effort has to be visible, practical, and credible. Demonstration matters because it shows what existing tools can do today, helps stakeholders evaluate real capability, and turns abstract standards discussion into evidence-based progress.
+
+    See real tool capability
+
+    Learn directly from implementers
+
+    Validate priorities before scaling
+
+== How you can get involved
+
+    Bring a use case
+
+    Bring a pilot concept
+
+    Share an exchange pain point
+
+    Help define what must be included for this effort to be valuable
+
+Whether you are a utility, ISO/RTO, vendor, consultant, or research participant, your input can help shape the first scope around real operational and planning needs.
+Start by joining the emai list and meetings; send an email to CIMIOP@ucaiug.org
+Take a survey, help guide this initiative
+
+
+== What happens next
+
+    Stakeholder alignment and use case input – click HERE to contact us or submit a use case
+
+    Plenary update: 13 July 2026, 10:00 AM PST / 1:00 PM EST – click HERE to watch the recording or download the sharable slide deck
+    14 JULY – 14 AUGUST:
+        Form the necessary task forces – click HERE to view a full list of Task Forces and get involved
+        Post-plenary scope and governance refinement
+        Interoperability planning path – tentatively Fall 2027, Washington State, United States
+    15 August and beyond:
+        More information to come!
+
+
+== Help shape the first practical scope
+
+We are looking for stakeholders who want to help validate the mission, identify high-value use cases, and shape a practical path to profile alignment, governance, and interoperability demonstration.
+Express your interst
+Contact the working group
+Contacts
+
+=== Chair
+
+Jeff Schmitt
+
+LinkedIn
+
+=== Vice Chair
+
+Pat Brown
+
+LinkedIn
+
+=== Vice Chair
+
+John Moseley, PE, PhD
+
+LinkedIn
+
+=== Vice Chair
+
+Ryan A. Willcockson, PhD
+
+LinkedIn
+
+=== Model Coordinator
+
+Alex Anderson, PhD
+
+LinkedIn

@@ -1,0 +1,9 @@
+= CIM Use cases
+
+== Tools Involved (Redmine, EA, etc.)
+
+== Tracking use cases
+
+== Drafting use cases
+
+== Linking issues

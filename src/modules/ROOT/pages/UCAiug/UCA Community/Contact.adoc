@@ -1,0 +1,36 @@
+= Contact Information
+
+== General UCAiug
+
+If you have questions about UCAiug and generally about these pages, you may reach out to:
+
+ryan@ucaiug.org
+jesse@ucaiug.org
+
+You can always send a ticket into GitHub as well.
+
+== CIMug
+
+=== TF13
+
+tviegut@ucaiug.org
+
+=== TF14
+
+jesse@ucaiug.org
+
+=== TF16
+
+biverson@ucaiug.org
+
+=== TF21
+
+
+== 61850ug
+
+=== TF10
+
+=== TF15
+
+
+== OpenFMBug

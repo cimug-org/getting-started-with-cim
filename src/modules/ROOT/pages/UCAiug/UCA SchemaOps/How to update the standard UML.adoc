@@ -1,0 +1,9 @@
+== How to Build this Site
+* 
+* Basic
+* 
+* Local Build
+* antora --extension @antora/lunr-extension .\antora-playbook.local.yml
+* 
+* GitHub Pages Build
+* 

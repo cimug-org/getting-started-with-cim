@@ -1,0 +1,4 @@
+= What does semantic mean?
+:sectnums:
+
+== Semantic meaning in CIM Ecosystem

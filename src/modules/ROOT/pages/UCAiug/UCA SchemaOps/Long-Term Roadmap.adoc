@@ -1,0 +1,15 @@
+= Long-Term Roadmap
+:sectnums:
+
+UCAiug SchemaOps covers many areas. The following information is provided to set a long-term direction on where it is all going.
+
+This site is under construction.
+
+== Modeling
+
+== Tools
+
+== CI Pipeline
+
+== Community and Participation
+

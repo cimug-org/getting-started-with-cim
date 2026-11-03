@@ -1,0 +1,16 @@
+= CIM Training Materials
+
+This site is under construction.
+
+== General UCAiug Materials
+
+* SOSDP
+* Modeling Guide
+* YouTube channel, Webinars
+
+== CIM University Resources
+
+* Course name
+** Course presentation
+
+== External Resources

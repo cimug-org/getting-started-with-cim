@@ -1,0 +1,11 @@
+= About CIMug
+
+The Common Information Model (CIM) Users Group (CIMUG) was formed in 2005, as a subgroup of the UCA International Users Group (UCA), to provide a forum in which users, consultants, and suppliers could cooperate and leverage the IEC CIM international standards to advance interoperability across the utility enterprise. The primary purpose is to share technology basics, best practices and technical resources while advancing interoperability for the utility enterprise.
+
+See: https://cimug.org/
+
+
+
+== How to Participate?
+
+The CIM Users Group is comprised of a diverse mix of energy industry stakeholders including electric utilities, hardware and software vendors, research labs, federal government, and consultants.  These dedicated individuals contribute as they are able and participate in activities based on interest and ability.

@@ -1,0 +1,19 @@
+= UCA Meetings and Events
+
+== Public Meetings
+
+UCAiug holds and facilitates numerous meetings which are available to the public.
+
+* SchemaOps
+* UCAIug TF13
+* UCAIug TF14
+* UCAIug TF14 Part 1
+* UCAIug TF14 Part ...
+* UCAIug TF16
+* UCAIug TF19
+* UCAIug TF21
+
+== Members-only Meetings
+
+UCAiug holds and facilitates some meetings which are available upon request by members.
+

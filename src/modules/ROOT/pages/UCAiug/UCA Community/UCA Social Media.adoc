@@ -1,0 +1,27 @@
+= UCA Social Media
+
+UCA tries to manage, watch, and share content among the following. Let us know if we're missing!
+
+Social:
+
+* LinkedIn: https://www.linkedin.com/company/uca-users-group/
+* Mastodon
+* PixelFed
+* Loops
+* Lemmy
+
+Webinars/Video:
+
+* YouTube: https://www.youtube.com/@UCAInternationalUsersGroup
+* PeerTube
+
+Group Chat:
+
+* WhatsApp
+* Slack
+* Matrix (ElementX)
+
+If you have questions about UCAiug and generally about these pages, you may reach out to:
+
+ryan@ucaiug.org
+jesse@ucaiug.org

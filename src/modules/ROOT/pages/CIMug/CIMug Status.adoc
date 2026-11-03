@@ -1,0 +1,131 @@
+= CIMug Status
+
+The following are a series of tables for release of the CIM UML and other information we hope will make it more transparent and accessible. UCAiug is providing all it can, with some links to proprietary IP from other sources.
+
+
+
+== UML
+
+The following is a table of UML releases of CIM, how to access them, and other related information you may find useful. 
+
+
+
+.UML
+[%header, role="table-scroll"]
+|===
+|CIM Release Name |CIM Version |AKA |Task Force |Model Manager |Draft/Final |UML Status |UML Version |Package Version |Target UML Release Date |Link to UML |Link to Redmine |Link to Comparison Reports
+
+|CIM100 |CIM100.1.1.1 |CIM17 |13, 14, 16 |Joint |Final |Complete |CIM_6197017v40_6196813v13b_6232503v17b |CIM_6197017v40_6196813v13b_6232503v17b |Approx Feb 18, 2025 |https://cimug.org/cimdocs/standards-artifacts/?wpcp_link=JTdCJTIyc291cmNlJTIyJTNBJTIyNjM4YTc4MjZkMjRmNzQxNTI3ZWIyMmU5NDU5YzYyMjElMjIlMkMlMjJhY2NvdW50X2lkJTIyJTNBJTIyMTg2MDYxNzEwNTYlMjIlMkMlMjJsYXN0Rm9sZGVyJTIyJTNBJTIyMzA3OTczNDA0MjExJTIyJTJDJTIyZm9sZGVyUGF0aCUyMiUzQSUyMld5SXpNRGM1TmpNeE9ETXhOekVpTENJek1EZ3dOVGN5TkRNd01qSWlMQ0l6TURjNU56TTBNRFF5TVRFaVhRJTNEJTNEJTIyJTJDJTIyZm9jdXNfaWQlMjIlM0ElMjIzMDc5NzM0MDQyMTElMjIlN0Q%3D |https://redmine.ucaiug.org/projects/cim-issues |https://utf13-reports.ucaiug.io/
+
+|CIM100 |CIM100.1.1.1 |CIM17 |13 |Todd Viegut, Chavdar Ivanov |Draft |Complete |CIM_6197017v40_6196813v13b_6232503v17b |IEC61970CIM17v40 |Approx Feb 18, 2025 | | | 
+
+|CIM100 |CIM100.1.1.1 |CIM17 |14 |Henry Dotson, Jesse Grey |Draft |Complete |CIM_6197017v40_6196813v13b_6232503v17b |IEC61968CIM13v13b |Approx Feb 18, 2025 | |https://redmine.ucaiug.org/projects/wg14-part-11-issues/issues?utf8=%E2%9C%93&set_filter=1&sort=id%3Adesc&f%5B%5D=status_id&op%5Bstatus_id%5D=o&f%5B%5D=tracker_id&op%5Btracker_id%5D=%3D&v%5Btracker_id%5D%5B%5D=9&f%5B%5D=&c%5B%5D=tracker&c%5B%5D=status&c%5B%5D=priority&c%5B%5D=cf_5&c%5B%5D=subject&c%5B%5D=updated_on&c%5B%5D=cf_77&c%5B%5D=cf_62&c%5B%5D=cf_48&c%5B%5D=author&group_by= | 
+
+|CIM100 |CIM100.1.1.1 |CIM17 |16 |Becky Iverson |Draft |Complete |CIM_6197017v40_6196813v13b_6232503v17b |IEC62325CIM03v17b |Approx Feb 18, 2025 | | | 
+
+|CIM101 |CIM101.? |CIM18 |13, 14, 16 |Joint |Final |In progress |CIM_Grid18v15_Enterprise14v05_Market_04v19 |CIM_Grid18v15_Enterprise14v04_Market_04v19 |TBD |TBD |TBD |TBD
+
+|CIM101 |CIM101.? |CIM18 |13 |Todd Viegut, Chavdar Ivanov |Draft |In progress |CIM_Grid18v15_Enterprise14v04_Market_04v19 |Grid18vX |TBD | | | 
+
+|CIM101 |CIM101.? |CIM18 |13 |Todd Viegut, Chavdar Ivanov |Draft |In progress |CIM_Grid18v16_Enterprise14v04_Market_04v19 |Grid18vX |TBD | | | 
+
+|CIM101 |CIM101.? |CIM18 |14 |Henry Dotson, Jesse Grey |Draft |In progress |CIM_Grid18v15_Enterprise14v04_Market_04v19 |Enterprise14v04 |9/25/2026 | |https://redmine.ucaiug.org/projects/wg14-part-11-issues/issues?utf8=%E2%9C%93&set_filter=1&sort=id%3Adesc&f%5B%5D=status_id&op%5Bstatus_id%5D=o&f%5B%5D=tracker_id&op%5Btracker_id%5D=%3D&v%5Btracker_id%5D%5B%5D=9&f%5B%5D=&c%5B%5D=tracker&c%5B%5D=status&c%5B%5D=priority&c%5B%5D=cf_5&c%5B%5D=subject&c%5B%5D=updated_on&c%5B%5D=cf_77&c%5B%5D=cf_62&c%5B%5D=cf_48&c%5B%5D=author&group_by= | 
+
+|CIM101 |CIM101.? |CIM18 |16 |Becky Iverson |Draft |In progress |CIM_Grid18v16_Enterprise14v04_Market_04v21 |Market04vX |TBD |https://ucatf.org/tf16/?wpcp_link=JTdCJTIyc291cmNlJTIyJTNBJTIyNTQ2ZGZiN2ZmNmVhNTBiNzI5YzA0MTVlNzIyOGI1OTMlMjIlMkMlMjJhY2NvdW50X2lkJTIyJTNBJTIyMzk1MzU1MTMyMzMlMjIlMkMlMjJsYXN0Rm9sZGVyJTIyJTNBJTIyMzA5NzMzNDY4Mzk1JTIyJTJDJTIyZm9sZGVyUGF0aCUyMiUzQSUyMld5SXpNVFkyTVRjM01EVXlOamdpTENJek1EazNNekkxT1RRNE5qY2lMQ0l6TURrM016TXpOVEk0TnpraUxDSXpNRGszTXpJek16VXhPRGNpTENJek1EazNNek0wTmpnek9UVWlYUSUzRCUzRCUyMiUyQyUyMmZvY3VzX2lkJTIyJTNBJTIyMjQ3MDYyMzkxNjMzNSUyMiU3RA%3D%3D | | 
+
+|CIM102 |CIM102.? |CIM19 |13, 14, 16 |Joint |Final |In progress |CIM_Grid19v??_Enterprise15v??_Market_05v?? |CIM_Grid19v??_Enterprise15v??_Market_05v?? |TBD |TBD |TBD |TBD
+
+|CIM102 |CIM102.? |CIM19 |13 |Todd Viegut, Chavdar Ivanov |Draft |In progress |CIM_Grid19v??_Enterprise15v??_Market_05v?? |Grid19vX |TBD | | | 
+
+|CIM102 |CIM102.? |CIM19 |14 |Jesse Grey |Draft |In progress |CIM_Grid19v??_Enterprise15v??_Market_05v?? |Enterprise15v04 |1/1/2028 | |https://redmine.ucaiug.org/projects/wg14-part-11-issues/issues?utf8=%E2%9C%93&set_filter=1&sort=id%3Adesc&f%5B%5D=status_id&op%5Bstatus_id%5D=o&f%5B%5D=tracker_id&op%5Btracker_id%5D=%3D&v%5Btracker_id%5D%5B%5D=9&f%5B%5D=&c%5B%5D=tracker&c%5B%5D=status&c%5B%5D=priority&c%5B%5D=cf_5&c%5B%5D=subject&c%5B%5D=updated_on&c%5B%5D=cf_77&c%5B%5D=cf_62&c%5B%5D=cf_48&c%5B%5D=author&group_by= | 
+
+|CIM102 |CIM102.? |CIM19 |16 |Becky Iverson |Draft |In progress |CIM_Grid19v??_Enterprise15v??_Market_05v?? |Market05vX |TBD | | | 
+
+|CIM101 |CIM101.? |CIM18 |14 |Henry Dotson, Jesse Grey |Draft |In progress |Dev101_WG14-Part11v10_Grid18v15_Enterprise14v05_Market04v18 |Enterprise14v05 |TBD |Dev101_WG14-Part11v10_Grid18v15_Enterprise14v05_Market04v18.zip | | 
+
+|===
+
+
+
+== Standards Documents
+
+The following is a table of Standards Documents that are downstream from the UML, how to access them, and other related information you may find useful. 
+
+
+
+
+.Standard Document
+[%header, cols="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1", role="table-scroll"]
+|===
+|Standard |Document Number |Document Name |IEC Standard Template Location |Document Version |Part |Edition |Document Stage |Target Submittal Date |Next Vote Date |Target Release Date |UML Version |Working Group |Convenor |Part Team Lead |Part Team Contact Info
+
+|61970 |61970-301 | | |301 |7.1 | | | | | | |13 |Chuck Dubose |Todd Viegut | 
+
+|61970 |61970-401 |JSON | |401 | | | | | | | |13 |Chuck Dubose | | 
+
+|61970 |619670-452 | | |452 | | | | | | | |13 |Chuck Dubose | | 
+
+|61970 |619670-457 | | |457 | | | | | | | |13 |Chuck Dubose | | 
+
+|61970 |61970-501 |RDFS | |501 | | | | | | | |13 |Chuck Dubose | | 
+
+|61970 |619670-552 |DifferenceModel, ModelDescription | |552 |3 | | | | | | |13 |Chuck Dubose | | 
+
+|61970 |61970-600-2 |Common Grid Model Exchange Standard - Exchange profiles specification | |600-2 | | | | | | | |13 |Chuck Dubose | | 
+
+|61968 |61968-11 |Common information model (CIM) extensions for operation support |<get link from github or website> |TBD |11 |3 |Pre CD / CDV |2/27/2026 |TBD |4/10/2026 |CIM_6197017v40_6196813v13b_6232503v17b |14 |David Haynes |Henry Dotson, Jesse Grey |hdotson@ucaiug.org, jesse@ucaiug.org 
+
+|61968 |61968-11 |Common information model (CIM) extensions for operation support | | |11 |4 | | | | | |14 |David Haynes |Henry Dotson, Jesse Grey | 
+
+|61968 |61968-11 |Common information model (CIM) extensions for operation support | | |11 |5 | | | | | |14 |David Haynes |Henry Dotson, Jesse Grey | 
+
+|61968 |61968-1 |Architecture and General Recommendations | | |1 | |IS/TR | | | | |14 |David Haynes |Svein Olsen, Shawn Hu |Svein.harald.olsen@stattnett.no, shu@xtensible.com 
+
+|61968 |61968-2 |Glossary | | |2 | |IS/TR | | | | |14 |David Haynes |David Haynes |dhaynes@hubbell.com 
+
+|61968 |61968-3 |Network Operations | | |3 | |IS/TR | | | | |14 |David Haynes |Martin Bass |martin.bass@hitachienergy.com 
+
+|61968 |61968-4 |Records and Asset Management | | |4 | |CDV1 | | | | |14 |David Haynes |Shawn Hu, Judy Morgan |"shu@xtensible.com, jmorgan@sakpower.com" 
+
+|61968 |61968-5 |Distributed Energy Optimization | | |5 | |IS/TR | | | | |14 |David Haynes |Jerry Gray |jgray@xtensible.net 
+
+|61968 |61968-6 |Work Management | | |6 | |CDV1 | | | | |14 |David Haynes |Jim Horstman |jim.horstman@strateture.com 
+
+|61968 |61968-7 |Engineering Design | | |7 | |NWIP/CD | | | | |14 |David Haynes |Jugoslav Dujic |jugoslav.dujic@se.com 
+
+|61968 |61968-8 |Customer Support | | |8 | |IS/TR | | | | |14 |David Haynes |Margaret Goodrich |margaret@j-mgoodrich.com 
+
+|61968 |61968-9 |Meter Reading and Control | | |9 | |IS/TR | | | | |14 |David Haynes |"David Bishop, David Haynes" |dbishop@selectgroup.com, (old: david@agile-worx.com), dhaynes@hubbell.com 
+
+|61968 |61968-100 |Implementation Profiles | | |100 | |IS/TR | | | | |14 |David Haynes |Michael Johnson |michael.johnson@itron.com 
+
+|61968 |61968-102 |Efficent XML Interchange for IEC 61968-9 XML Messages | | |102 | | | | | | |14 |David Haynes |David Haynes |dhaynes@hubbell.com 
+
+|61968 |61968-103 |Good Working Practices | | |103 | |DTR | | | | |14 |David Haynes |David Haynes |dhaynes@hubbell.com 
+
+|61968 |61968-900 |Guidance for implementations of IEC 61968-9 | | |900 | |TR | | | | |14 |David Haynes | | 
+
+|62325 |62325-? |Environment | | | | | | | | | |16 |Jim Waight |Becky Iverson | 
+
+|62325 |62325-301 | | |301 |? | | | | | | |16 |Jim Waight |Becky Iverson | 
+
+|===
+
+
+== Profiles and Artifacts
+
+The following is a table of Profiles and other Artifacts that are downstream from the UML, and how to access them. 
+
+
+
+.Profiles and Artifacts
+[%header, cols="1,1,1,1,1,1,1,1,1", role="table-scroll"]
+|===
+| IP Owner | Profile Name       | Link to Draft Profile | Profile Status | Target Profile Release Date | Link to Official Related Standard | UML Version | Document Number |
+
+| IEC | | | | | | | |
+| UCA (Apache 2.0) | 452? | | | | | | |
+| UCA (Apache 2.0) | XSD  | | | | | | |
+|===
+
+

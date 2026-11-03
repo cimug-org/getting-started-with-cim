@@ -1,0 +1,20 @@
+= UCAiug and OpenSource
+
+This site is under construction.
+
+There are open-source projects and tooling for the CIM and IEC 61850 communities, sponsored by the UCA and its CIM and 61850 Users Groups, with commercially friendly licenses.
+
+To learn more and get involved, please see https://www.ucaiug.io/
+
+== Our Mission
+
+The UCA Users Groups Open Source Initiative is dedicated to providing open source projects and tooling that benefit the CIM and 61850 communities with commercially friendly licenses.
+
+== Goals of the UCA Open Source Initiative
+
+* Provide awareness of CIM and 61850 open source projects and tooling
+* Promote open source projects that help advance CIM and CIM related standards
+* Provide a central Repository for CIM and 61850 related open source projects and tooling
+* Provide a centralized place for promoting collaboration around these projects within the UCA CIM and 61850 Users Group communities
+
+To inquire about the CIMug Open Source Initiative or to discuss contributing new projects to the initiative please contact us at github.admin@cimug.org.

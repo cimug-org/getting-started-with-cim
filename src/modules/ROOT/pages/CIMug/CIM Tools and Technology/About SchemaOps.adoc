@@ -1,0 +1,19 @@
+= About SchemaOps
+
+== Definition
+
+SchemaOps is a set of practices, tools, and a cultural philosophy that focuses on the creation, validation, and management of structured data schemas. These schemas define the vocabulary, relationships, and validation rules for data models, ensuring compliance with specific standards and profiles such as W3C DX-PROF. SchemaOps intends to streamline and automate the processes of schema design, validation, and enforcement to deliver schemas and services more rapidly, reliably, and efficiently, enabling organizations to maintain consistency, accuracy, and interoperability across data systems.
+
+== Goal
+
+The goal of SchemaOps is to establish a common open-source toolchain that supports UCAIug and its member communities in developing information models, profiles, and schemas that can also be applied by the wider industry. While the primary focus is on IEC TC57 standards—such as CIM and IEC 61850—the methods and tools are designed for use across other IEC Technical Committees as well. SchemaOps defines a schema development process inspired by DevOps best practices, ensuring automation, transparency, and collaboration throughout the lifecycle of schema creation and maintenance.
+ 
+The initiative emphasizes both backward compatibility with existing tools and forward alignment with emerging IEC and ISO practices for Online Standards Development (OSD; https://iec.ch/online-standards-development). By doing so, SchemaOps provides a sustainable foundation for harmonized, standards-based schema management that benefits utilities, vendors, and the broader open-source community.
+
+== Participate
+
+The SchemaOps community is comprised of energy industry stakeholders including electric utilities, hardware and software vendors, research labs, federal government, and consultants.  These dedicated individuals contribute as they are able and participate in activities based on interest and ability. 
+ 
+Join SchemaOps' monthly virtual meetings to stay informed on progress updates, group decisions, task assignments, and more. For details on how to get involved, contact Jesse@ucaiug.org.
+
+See https://ucaiug.org/uca-schemaops/

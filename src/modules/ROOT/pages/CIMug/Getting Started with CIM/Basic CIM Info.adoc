@@ -1,0 +1,48 @@
+== What is CIM?
+
+Sharing data about power systems between utility companies has always been hard when each utility uses its own unique data format. In the past, most companies used one software system, either something they built themselves or bought from a vendor. That software used its own proprietary way to store and share data. But now, as power companies are no longer as tightly controlled and grids have become smarter, it's more important than ever to be able to share power system data easily and clearly.
+
+Today, there are many software companies and tools available. This makes it even harder to share data between systems. That's why there is a need for one common, open standard that everyone can use to describe power system data. This standard way of describing power system data helps different software systems work together and makes it easier for companies to exchange data inside and outside their organizations.
+
+The Common Information Model (CIM) is that open standard. It was first created by the Electric Power Research Institute (EPRI) in North America. The CIM started as part of a project called the Control Centre Application Programming Interface (CCAPI). The goal was to create a shared way of describing power system elements in an electric grid for use in Energy Management Systems (EMS). Now, the CIM is managed by the UCA International Users Group (UCAIug).
+
+Today, most EMS vendors use this standard. It helps their applications share data with other applications no matter how those applications use that data internally. Over time, the CIM has grown. It now supports both grid-related business operations within a utility and the operation of energy markets.
+
+
+== Why CIM exists
+
+What is CIM for? When your utility's data is scattered across systems, meanings don't align, and you're ready to treat “shared understanding of the grid” as a strategic asset.
+
+*  Too many custom interfaces
+*  Same asset, different meanings
+*  One shared language, many systems 
+*  Reduce vendor-specific adapters
+*  Model once, reuse often 
+
+== When CIM becomes relevant
+* First serious system integration 
+* OT-IT data must align
+* Network model sharing pain 
+* Outage, asset, meter silos
+* Market/regulatory data pressure 
+
+== When CIM is essential
+* Enterprise integration program 
+* Grid model exchanges become external
+* Multi-vendor EMS/DMS landscape
+* Planning-operations-markets
+* Long term interoperability strategy 
+
+== Where to go Next
+
+From here, we recommend taking a look into any topic that interests you in our table of contents. We're adding new resources frequently, so check back often, and if you wish some information would be added, please let us know.
+
+Here are some recommended pages if you're new to CIM:
+
+xref:CIMug/Getting Started with CIM//CIM and Organizations.adoc[CIM and Organizations]
+
+xref:CIMug/Getting Started with CIM//CIM History.adoc[CIM History]
+
+xref:CIMug/Getting Started with CIM/Real World Examples.adoc[Real World Examples]
+
+xref:UCAiug/UCA Community/Contact.adoc[Contact Us]

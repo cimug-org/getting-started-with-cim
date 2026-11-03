@@ -1,0 +1,14 @@
+= Where IEC 61850 fits
+
+* Substation and device layer. IEC 61850 defines data models and services for protection, control, and automation at the substation and similar OT environments.
+* Focused on IEDs, bays, and substation communication, with standardized logical nodes and fast event messaging (GOOSE, sampled values).
+* Typically used by protection, SCADA, and substation engineering teams to ensure interoperable substation level behavior.
+When utilities typically “need” IEC 61850
+* Modernizing substation automation
+* Multi vendor IED interoperability
+* Fast, deterministic protection messaging
+* Standardized substation data models
+* Engineering/configuration tool unification
+* Integrating legacy relays and new IEDs
+* Transparent, future proof SCADA upgrades
+* Harmonized OT semantics across sites 

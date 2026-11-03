@@ -1,0 +1,5 @@
+= About CIM Flow
+
+When doing CIM modeling, we need to follow best practices, similar to GitFlow.
+
+image::CIMFlow.png[]
