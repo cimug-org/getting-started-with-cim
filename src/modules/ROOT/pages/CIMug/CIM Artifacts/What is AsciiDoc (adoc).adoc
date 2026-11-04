@@ -1,3 +1,0 @@
-= AsciiDoc
-
-This site is under construction.

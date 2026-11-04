@@ -1,8 +1,0 @@
-= CIM Model Management
-
-The CIM is overseen by a group of UCAIug model managers (CIM Model Managers). As a team, they manage the entire model. Each model manager is responsible for one of the three major parts of the CIM. There is a Grid Model Manager, an Enterprise Model Manager, and a Market Model Manager. They make sure that any updates follow the rules for how the model should be built. They control what changes are made to the CIM and when those changes are officially published. This keeps the CIM concise, accurate, reliable, and useful for everyone who uses it.
-
-
-== CIM Modeling Guide
-
-The CIM Modeling Guide can be found at https://cim-mg.ucaiug.io/latest/

@@ -1,8 +1,0 @@
-= What is an Extension?
-
-== Extensions in CIM
-
-== Different Terms
-
-== Where Extensions are Used
-

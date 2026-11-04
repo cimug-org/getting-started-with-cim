@@ -1,6 +1,0 @@
-= SchemaOps Backlog
-
-This site is under construction.
-
-== How Backlog Items are Tracked, Prioritized, Assigned, and Released
-
