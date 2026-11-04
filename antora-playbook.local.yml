@@ -23,10 +23,10 @@ output:
 ui:
   bundle:
     url: ../antora-ui-uca-kb-spec/build/ui-bundle.zip
+    snapshot: true
     # backup:
     # url: ../antora-ui-cimug-spec/build/ui-bundle.zip
     # url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
-#    snapshot: true
   supplemental_files: ./node_modules/@antora/lunr-extension
     # url: https://github.com/cimug-org/antora-ui-cimug-spec/releases/download/v0.1.0/ui-bundle.zip
     # url: ..//antora-ui-cimug-spec//build//ui-bundle.zip
