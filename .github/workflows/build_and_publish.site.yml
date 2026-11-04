@@ -24,6 +24,9 @@ jobs:
 
       - name: Build site with Antora
         run: antora antora-playbook.yml
+        
+      - name: Ensure Jekyll is disabled in published output
+        run: touch build/site/.nojekyll
 
       - name: Verify generated site and UI assets
         run: |
