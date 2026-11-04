@@ -20,7 +20,8 @@ output:
   dir: build/site
 ui:
   bundle:
-    url: https://github.com/cimug-org/antora-ui-uca-kb-spec/releases/download/v0.1.0/ui-bundle.zip
+    url: ../antora-ui-uca-kb-spec/build/ui-bundle.zip
+    # url: https://github.com/cimug-org/antora-ui-uca-kb-spec/releases/download/v0.1.0/ui-bundle.zip
     snapshot: true
     # url: https://github.com/cimug-org/antora-ui-cimug-spec/releases/download/v0.1.0/ui-bundle.zip
   supplemental_files:
