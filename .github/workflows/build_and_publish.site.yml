@@ -41,3 +41,4 @@ jobs:
           publish_dir: ./build/site
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: gh-pages
+          
