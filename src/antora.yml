@@ -1,6 +1,0 @@
-name: ROOT # related to the url
-version: ~ # ~ means unversioned which is okay for now
-title: UCAiug Knowledge Base -- (IN PROGRESS) -- 
-nav:
-- modules/ROOT/nav.adoc
-# above is useful for multipage

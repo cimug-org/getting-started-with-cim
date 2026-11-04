@@ -1,9 +1,0 @@
-= About Community Discussion Boards
-
-We want to foster an open environment for discussion and collaboration.
-
-SchemaOps provides a number of boards and issues for specific topics -- Reach out any time to join the conversation!
-
-The discussion boards in specific tool repositories (such as CIMTool) are specifically designed for tool-specific discussions, questions, etc. 
-
-Utilizing any such boards as platforms to advertise personal or proprietary projects is discouraged. If you would like to offer any resources to the UCAiug, we would be happy to discuss it and find the right place to host it or share it.

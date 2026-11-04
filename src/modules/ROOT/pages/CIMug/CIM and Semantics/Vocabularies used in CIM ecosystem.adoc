@@ -1,4 +1,0 @@
-= Vocabularies used in CIM Ecosystem
-:sectnums:
-
-== Vocabulary

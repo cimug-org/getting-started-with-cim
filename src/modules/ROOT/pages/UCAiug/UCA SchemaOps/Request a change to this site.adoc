@@ -1,8 +1,0 @@
-= Request a Change to this Site
-
-This site is under construction.
-
-
-== How to submit a ticket in GitHub
-
-Requests are tracked via GitHub and Email primarily. contact us.
