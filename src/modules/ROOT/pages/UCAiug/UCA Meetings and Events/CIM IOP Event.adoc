@@ -1,3 +1,0 @@
-== The CIM Interop (IOP) Event
-
-This page is under construction.

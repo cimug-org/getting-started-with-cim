@@ -1,7 +1,0 @@
-= UCA Task Forces
-
-This site is under construction.
-
-* UTF13
-* UTF14
-* UTF15

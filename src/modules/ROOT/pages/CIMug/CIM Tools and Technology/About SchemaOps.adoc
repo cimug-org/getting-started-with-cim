@@ -1,1 +1,0 @@
-include::../../../pages/UCAiug//UCA SchemaOps//UCA SchemaOps.adoc[]
