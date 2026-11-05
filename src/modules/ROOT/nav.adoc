@@ -29,7 +29,7 @@
 **** xref:UCAiug/UCA Meetings and Events/UCAiug and IEC Meetings.adoc[UCAiug and IEC Meetings]
 **** xref:UCAiug/UCA Meetings and Events/UCAiug Meeting Agendas and Minutes Templates.adoc[UCAiug Meeting Agendas and Minutes Templates]
 **** xref:UCAiug/UCA Meetings and Events/UCAiug Meeting Agendas and Minutes.adoc[UCAiug Meeting Agendas and Minutes]
-*** UCA SchemaOps
+*** xref:UCAiug/UCA SchemaOps/UCA SchemaOps.adoc[UCA SchemaOps]
 **** xref:UCAiug/UCA SchemaOps/How to Build this Site.adoc[How to Build this Site]
 **** xref:UCAiug/UCA SchemaOps/How to update the standard UML.adoc[How to update the standard UML]
 **** xref:UCAiug/UCA SchemaOps/Intro to AsciiDoc.adoc[Intro to AsciiDoc]
